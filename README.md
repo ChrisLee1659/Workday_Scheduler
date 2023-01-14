@@ -21,11 +21,12 @@ Provide a short description explaining the what, why, and how of your project. U
 
 Provide instructions and examples for use. Include screenshots as needed.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+My final project will look more detailed.  Right now I am just figuring out how to add an image in my READme
 
-    ```md
-    ![Demo should looke like this](Desktop/Coding_Bootcamp/Workday_Scheduler/05-third-party-apis-homework-demo.gif)
-    ```
+![05-third-party-apis-homework-demo](https://user-images.githubusercontent.com/119467134/212495479-8319330d-c478-4738-bfb8-fd88887e3d97.gif)
+
+
+
 
 ## Credits
 
@@ -33,8 +34,9 @@ List your collaborators, if any, with links to their GitHub profiles.
 
 If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
-If you followed tutorials, include links to those here as well.
 
+If you followed tutorials, include links to those here as well.
+- YouTube video.  How to add image to READMe file https://www.youtube.com/watch?v=nvPOUdz5PL4
 ## License
 
 The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
