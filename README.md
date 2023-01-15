@@ -39,4 +39,4 @@ If you followed tutorials, include links to those here as well.
 - YouTube video.  How to add image to READMe file https://www.youtube.com/watch?v=nvPOUdz5PL4
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+No license requirments for this assignment
