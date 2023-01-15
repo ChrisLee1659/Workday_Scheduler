@@ -21,9 +21,9 @@ Provide a short description explaining the what, why, and how of your project. U
 
 Provide instructions and examples for use. Include screenshots as needed.
 
-My final project will look more detailed.  Right now I am just figuring out how to add an image in my READme
+Image display of final product for visual purposes
 
-![05-third-party-apis-homework-demo](https://user-images.githubusercontent.com/119467134/212495479-8319330d-c478-4738-bfb8-fd88887e3d97.gif)
+<img width="944" alt="final_image" src="https://user-images.githubusercontent.com/119467134/212508546-634fb4b8-7243-44f7-9fdb-8821971b7847.png">
 
 
 
