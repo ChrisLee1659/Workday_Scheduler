@@ -2,7 +2,7 @@
 // the code isn't run until the browser has finished rendering all the elements
 // in the html.
 var todayDate = moment().format('dddd, MMM Do YYYY');
-$("currentDay").html(todayDate);
+$("#currentDay").text(todayDate);
 
 $(function () {
 
@@ -29,8 +29,8 @@ $(function () {
 
 
 // Display today's day and date
-var todayDate = moment().format('dddd, MMM Do YYYY');
-$("#currentDay").html(todayDate);
+//var todayDate = moment().format('dddd, MMM Do YYYY');
+//$("#currentDay").html(todayDate);
 
 
     // Get item from local storage if any
@@ -46,4 +46,3 @@ $("#currentDay").html(todayDate);
     $("#hour17 .description").val(localStorage.getItem("hour17"));
 
     timeTracker();
-})
